@@ -66,3 +66,14 @@ https://colab.research.google.com/github/google-ai-edge/mediapipe-samples/blob/m
 
 ## gemma3-1b-it-int4 huggingface链接
 https://huggingface.co/litert-community/Gemma3-1B-IT/blob/main/gemma3-1b-it-int4.task
+
+
+## 传递文件
+
+```
+adb push gemma3-1b-it-int4.task /sdcard/Download/gemma3.task
+```
+
+## 应用
+
+由于接口访问google服务和huggingface.co, 手机需要链接VPN。
