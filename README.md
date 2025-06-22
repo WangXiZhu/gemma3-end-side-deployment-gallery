@@ -59,3 +59,10 @@ Licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file 
 *   [Hugging Face LiteRT Community](https://huggingface.co/litert-community)
 *   [LLM Inference guide for Android](https://ai.google.dev/edge/mediapipe/solutions/genai/llm_inference/android)
 *   [Google AI Edge Documentation](https://ai.google.dev/edge)
+
+## MediaPipe部署
+
+https://colab.research.google.com/github/google-ai-edge/mediapipe-samples/blob/main/codelabs/litert_inference/Gemma3_1b_fine_tune.ipynb
+
+## gemma3-1b-it-int4 huggingface链接
+https://huggingface.co/litert-community/Gemma3-1B-IT/blob/main/gemma3-1b-it-int4.task
